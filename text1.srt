@@ -1,0 +1,255 @@
+1
+00:00:09,000 --> 00:00:12,000
+Taking that internship in a remote mountain lab
+
+2
+00:00:12,000 --> 00:00:14,000
+might not have been the best idea.
+
+3
+00:00:14,000 --> 00:00:18,000
+Pulling that lever with the skull symbol just to see what it did
+
+4
+00:00:18,000 --> 00:00:20,000
+probably wasn't so smart, either,
+
+5
+00:00:20,000 --> 00:00:23,000
+but now is not the time for regrets
+
+6
+00:00:23,000 --> 00:00:28,000
+because you need to get away from these mutant zombies fast.
+
+7
+00:00:28,000 --> 00:00:32,000
+With you are the janitor, the lab assistant, and the old professor.
+
+8
+00:00:32,000 --> 00:00:36,000
+You've gotten a headstart, but there's only one way to safety:
+
+9
+00:00:36,000 --> 00:00:40,000
+across an old rope bridge spanning a massive gorge.
+
+10
+00:00:40,000 --> 00:00:42,000
+You can dash across in a minute,
+
+11
+00:00:42,000 --> 00:00:46,000
+while the lab assistant takes two minutes.
+
+12
+00:00:46,000 --> 00:00:49,000
+The janitor is a bit slower and needs five minutes,
+
+13
+00:00:49,000 --> 00:00:52,000
+and the professor takes a whole ten minutes,
+
+14
+00:00:52,000 --> 00:00:56,000
+holding onto the ropes every step of the way.
+
+15
+00:00:56,000 --> 00:00:58,000
+By the professor's calculations,
+
+16
+00:00:58,000 --> 00:01:02,000
+the zombies will catch up to you in just over 17 minutes,
+
+17
+00:01:02,000 --> 00:01:08,000
+so you only have that much time to get everyone across and cut the ropes.
+
+18
+00:01:08,000 --> 00:01:13,000
+Unfortunately, the bridge can only hold two people at a time.
+
+19
+00:01:13,000 --> 00:01:14,000
+To make matters worse,
+
+20
+00:01:14,000 --> 00:01:16,000
+it's so dark out that you can barely see,
+
+21
+00:01:16,000 --> 00:01:21,000
+and the old lantern you grabbed on your way only illuminates a tiny area.
+
+22
+00:01:21,000 --> 00:01:26,000
+Can you figure out a way to have everyone escape in time?
+
+23
+00:01:26,000 --> 00:01:30,000
+Remember: no more than two people can cross the bridge together,
+
+24
+00:01:30,000 --> 00:01:35,000
+anyone crossing must either hold the lantern or stay right next to it,
+
+25
+00:01:35,000 --> 00:01:40,000
+and any of you can safely wait in the dark on either side of the gorge.
+
+26
+00:01:40,000 --> 00:01:45,000
+Most importantly, everyone must be safely across before the zombies arrive.
+
+27
+00:01:45,000 --> 00:01:50,000
+Otherwise, the first zombie could step on the bridge while people are still on it.
+
+28
+00:01:50,000 --> 00:01:53,000
+Finally, there are no tricks to use here.
+
+29
+00:01:53,000 --> 00:01:54,000
+You can't swing across,
+
+30
+00:01:54,000 --> 00:01:56,000
+use the bridge as a raft,
+
+31
+00:01:56,000 --> 00:01:58,000
+or befriend the zombies.
+
+32
+00:01:58,000 --> 00:02:01,000
+Pause the video now if you want to figure it out for yourself!
+
+33
+00:02:01,000 --> 00:02:03,000
+Answer in: 3
+
+34
+00:02:03,000 --> 00:02:04,000
+Answer in: 2
+
+35
+00:02:04,000 --> 00:02:05,000
+Answer in: 1
+
+36
+00:02:05,000 --> 00:02:08,000
+At first it might seem like no matter what you do,
+
+37
+00:02:08,000 --> 00:02:12,000
+you're just a minute or two short of time, but there is a way.
+
+38
+00:02:12,000 --> 00:02:16,000
+The key is to minimize the time wasted by the two slowest people
+
+39
+00:02:16,000 --> 00:02:19,000
+by having them cross together.
+
+40
+00:02:19,000 --> 00:02:22,000
+And because you'll need to make a couple of return trips with the lantern,
+
+41
+00:02:22,000 --> 00:02:26,000
+you'll want to have the fastest people available to do so.
+
+42
+00:02:26,000 --> 00:02:31,000
+So, you and the lab assistant quickly run across with the lantern,
+
+43
+00:02:31,000 --> 00:02:34,000
+though you have to slow down a bit to match her pace.
+
+44
+00:02:34,000 --> 00:02:37,000
+After two minutes, both of you are across,
+
+45
+00:02:37,000 --> 00:02:41,000
+and you, as the quickest, run back with the lantern.
+
+46
+00:02:41,000 --> 00:02:43,000
+Only three minutes have passed.
+
+47
+00:02:43,000 --> 00:02:44,000
+So far, so good.
+
+48
+00:02:44,000 --> 00:02:46,000
+Now comes the hard part.
+
+49
+00:02:46,000 --> 00:02:50,000
+The professor and the janitor take the lantern and cross together.
+
+50
+00:02:50,000 --> 00:02:51,000
+This takes them ten minutes
+
+51
+00:02:51,000 --> 00:02:55,000
+since the janitor has to slow down for the old professor
+
+52
+00:02:55,000 --> 00:02:56,000
+who keeps muttering
+
+53
+00:02:56,000 --> 00:02:59,000
+that he probably shouldn't have given the zombies night vision.
+
+54
+00:02:59,000 --> 00:03:03,000
+By the time they're across, there are only four minutes left,
+
+55
+00:03:03,000 --> 00:03:05,000
+and you're still stuck on the wrong side of the bridge.
+
+56
+00:03:05,000 --> 00:03:10,000
+But remember, the lab assistant has been waiting on the other side,
+
+57
+00:03:10,000 --> 00:03:13,000
+and she's the second fastest of the group.
+
+58
+00:03:13,000 --> 00:03:16,000
+So she grabs the lantern from the professor
+
+59
+00:03:16,000 --> 00:03:18,000
+and runs back across to you.
+
+60
+00:03:18,000 --> 00:03:23,000
+Now with only two minutes left, the two of you make the final crossing.
+
+61
+00:03:23,000 --> 00:03:25,000
+As you step on the far side of the gorge,
+
+62
+00:03:25,000 --> 00:03:28,000
+you cut the ropes and collapse the bridge behind you,
+
+63
+00:03:28,000 --> 00:03:30,000
+just in the nick of time.
+
+64
+00:03:30,000 --> 00:03:31,000
+Maybe next summer, you'll just stick to the library.
